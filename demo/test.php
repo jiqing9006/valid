@@ -2,8 +2,8 @@
 /**
  * 测试案例
  */
-
-require '../Valid.php';
+namespace Valid;
+require '../src/Valid.php';
 $validators = [
     'tel' => 'required|tel',
     'name' => 'required',
