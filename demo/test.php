@@ -1,7 +1,9 @@
 <?php
+/**
+ * 测试案例
+ */
 
 require '../Valid.php';
-
 $validators = [
     'tel' => 'required|tel',
     'name' => 'required',
