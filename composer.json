@@ -25,5 +25,11 @@
     "psr-4": {
       "Valid\\": "src/"
     }
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
   }
 }
