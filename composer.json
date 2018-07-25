@@ -10,7 +10,6 @@
     "validator",
     "api"
   ],
-  "minimum-stability": "dev",
   "authors": [
     {
       "name": "jiqing9006",
@@ -18,7 +17,7 @@
     }
   ],
   "require": {
-    "php": ">=5.4"
+    "php": ">=5.5"
   },
   "license": "MIT",
   "autoload": {
