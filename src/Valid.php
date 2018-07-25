@@ -36,7 +36,7 @@ class Valid
 
                 $method_array = get_class_methods(new Valid());
                 if (!in_array($method,$method_array)) {
-                    self::$error[] = "Method not exist.";
+                    self::$error[] = "验证规则不存在";
                 }
 
                 if (!self::$method($input[$field],$param)) {
