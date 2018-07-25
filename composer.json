@@ -10,7 +10,7 @@
     "validator",
     "api"
   ],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "jiqing9006",
