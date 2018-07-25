@@ -4,7 +4,7 @@
  * @author    jiqing9006@126.com
  * @version   v1.1
  */
-namespace Valid;
+namespace Jq;
 class Valid
 {
     static protected $error;

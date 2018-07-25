@@ -2,7 +2,7 @@
 /**
  * 测试案例
  */
-namespace Valid;
+namespace Jq;
 require '../src/Valid.php';
 $validators = [
     'tel' => 'required|tel',
